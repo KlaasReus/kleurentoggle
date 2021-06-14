@@ -1,0 +1,35 @@
+
+  label {
+    margin: 20px;
+    font-size: 100px;
+    display: inline;
+    cursor: pointer;
+  }
+  
+  .menu {
+    text-align: center;
+    width: 400px;
+    visibility: hidden;
+  }
+  .menu li {
+    border-bottom: 1px solid grey;
+    line-height: 80px;
+    font-size: 40px;
+  }
+  
+  .white:hover {
+    background-color: white;
+  }
+ 
+  .red:hover {
+    background-color: red;
+  }
+  .yellow:hover {
+    background-color: yellow;
+  }
+  .green:hover {
+    background-color: green;
+  }
+  .blue:hover {
+    background-color: blue;
+  }
